@@ -1,7 +1,7 @@
 問1.webページの内容の記述の定義の為に必要
 
 問2.要素:見出しや段落などの部品
-　　属性:要素に情報を付加するもの
+　　属性:要素に情報を付加するもの　
 
 問3.要素:html,head,title,body,h1,p,a,img,ul,ol
     属性:class,id,style,title
