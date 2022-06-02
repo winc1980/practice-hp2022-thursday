@@ -4,7 +4,7 @@
 　　属性:要素に情報を付加するもの　
 
 問3.要素:html,head,title,body,h1,p,a,img,ul,ol
-    属性:class,id,style,title
+    属性:class,id,style,title　
 
 問4.ブロック要素:文章を構成する基本となる要素。一つのブロック　　として認識される。
 　　インライン要素:ブロック要素の内容として用いられる要素。文　　章の一部として扱われる。
